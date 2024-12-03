@@ -1,7 +1,9 @@
 ---
 title: "À propos"
 date: 2024-12-03
-draft: false
+layout: "single"
+url: "/about/"
+summary: "À propos de Neat AI"
 ---
 
 # À propos de Neat AI

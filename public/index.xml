@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Accueil on Neat AI</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content in Accueil on Neat AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>À propos</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h1 id=&#34;à-propos-de-neat-ai&#34;&gt;À propos de Neat AI
+&lt;/h1&gt;&lt;p&gt;Neat AI est un blog dédié à explorer les avancées et les applications de l&amp;rsquo;intelligence artificielle dans divers domaines.&lt;/p&gt;
+&lt;h2 id=&#34;notre-mission&#34;&gt;Notre Mission
+&lt;/h2&gt;&lt;p&gt;Fournir des informations précises et approfondies sur l&amp;rsquo;IA pour aider nos lecteurs à comprendre son impact et ses potentialités.&lt;/p&gt;
+&lt;h2 id=&#34;contactez-nous&#34;&gt;Contactez-Nous
+&lt;/h2&gt;&lt;p&gt;Si vous avez des questions ou des suggestions, n&amp;rsquo;hésitez pas à nous contacter via &lt;a class=&#34;link&#34; href=&#34;mailto:contact@neatai.com&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Contact</title>
+        <link>http://localhost:1313/contact/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/contact/</guid>
+        <description>&lt;h1 id=&#34;contactez-nous&#34;&gt;Contactez-Nous
+&lt;/h1&gt;&lt;p&gt;Pour toute question, suggestion ou collaboration, n&amp;rsquo;hésitez pas à nous contacter via &lt;a class=&#34;link&#34; href=&#34;mailto:contact@neatai.com&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vous pouvez également nous suivre sur nos réseaux sociaux :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/VotreCompte&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/VotreCompte&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://facebook.com/VotreCompte&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
