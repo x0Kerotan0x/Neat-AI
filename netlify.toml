@@ -1,0 +1,8 @@
+[build]
+  command = "hugo --minify --config config.toml"
+  publish = "public"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
