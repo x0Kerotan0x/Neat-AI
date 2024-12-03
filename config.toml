@@ -1,4 +1,4 @@
-baseURL = "https://mon-blog-ia.netlify.app/"  # Remplacez par votre URL Netlify une fois déployé
+baseURL = "https://mellifluous-paprenjak-d598f2.netlify.app/"
 languageCode = "fr-fr"
 title = "Neat AI"
 theme = "hugo-theme-stack"
