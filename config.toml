@@ -5,6 +5,15 @@ theme = "hugo-theme-stack"
 
 [params]
   description = "Un blog dédié à l'intelligence artificielle, ses applications et son impact futur."
+  darkMode = true
+  shareButtons = true
+  logo = "images/logo.png"
+  favicon = "images/favicon.ico"
+
+  [params.social]
+    twitter = "https://twitter.com/VotreCompte"
+    facebook = "https://facebook.com/VotreCompte"
+    linkedin = "https://linkedin.com/in/VotreCompte"
 
 [taxonomies]
   category = "categories"
@@ -25,14 +34,3 @@ theme = "hugo-theme-stack"
     name = "Contact"
     url = "/contact/"
     weight = 3
-
-[params.social]
-  twitter = "https://twitter.com/VotreCompte"
-  facebook = "https://facebook.com/VotreCompte"
-  linkedin = "https://linkedin.com/in/VotreCompte"
-
-[params]
-  logo = "images/logo.png"
-  favicon = "images/favicon.ico"
-  darkMode = true
-  shareButtons = true
