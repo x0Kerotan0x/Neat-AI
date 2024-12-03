@@ -9,6 +9,7 @@ theme = "hugo-theme-stack"
   shareButtons = true
   logo = "images/logo.png"
   favicon = "images/favicon.ico"
+  mainSections = ["posts"]
 
   [params.social]
     twitter = "https://twitter.com/VotreCompte"
@@ -18,8 +19,15 @@ theme = "hugo-theme-stack"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  series = "series"
 
 [menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Articles"
+    url = "/posts/"
+    weight = 5
+
   [[menu.main]]
     identifier = "home"
     name = "Accueil"
